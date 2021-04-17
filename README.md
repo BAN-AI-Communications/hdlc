@@ -1,4 +1,4 @@
-## hdlc
+## HDLC
 
 HDLC framing
 
